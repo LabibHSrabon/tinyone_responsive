@@ -1,1 +1,1 @@
-# tynyone_responsive
+# tinyone_responsive
